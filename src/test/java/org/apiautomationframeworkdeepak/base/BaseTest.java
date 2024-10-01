@@ -1,5 +1,5 @@
 package org.apiautomationframeworkdeepak.base;
 
-public class BaseTests {
-    
+public class BaseTest {
+
 }

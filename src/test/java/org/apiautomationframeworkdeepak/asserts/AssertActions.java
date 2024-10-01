@@ -1,4 +1,5 @@
 package org.apiautomationframeworkdeepak.asserts;
 
-public class assertion {
+public class AssertActions {
+
 }

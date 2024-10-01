@@ -1,4 +1,5 @@
-package org.apiautomationframeworkdeepak.Modules;
+package org.apiautomationframeworkdeepak.modules;
 
 public class PayloadManager {
+
 }
